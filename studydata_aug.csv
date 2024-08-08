@@ -1,0 +1,335 @@
+﻿days,date,minutes,hours,notes,anki,program,week,status
+1,7/30/2023,45,0.8,Lecture 0 ,,CS50,1,unrelated full time job
+2,7/31/2023,75,1.3,Lecture 0 ,,CS50,1,unrelated full time job
+3,8/1/2023,115,1.9,Lecture 1,,CS50,1,unrelated full time job
+4,8/2/2023,55,0.9,Scratch Project,,CS50,1,unrelated full time job
+5,8/3/2023,130,2.2,Scratch Project,,CS50,1,unrelated full time job
+6,8/4/2023,110,1.8,Scratch Project/Lecture 1,,CS50,1,unrelated full time job
+7,8/7/2023,95,1.6,Hello World! Found Codespaces to make it work on Windows!,,CS50,,unrelated full time job
+8,8/8/2023,120,2,Lecture 1/ CLI/Hello/Meow/Loops,,CS50,,unrelated full time job
+9,8/10/2023,140,2.3,Finish Lecture 1/loops/calculator code/OTHER,,CS50,,unrelated full time job
+10,8/11/2023,165,2.8,Video on Lecture 1 Data/LOTS of other work,,CS50,,unrelated full time job
+11,8/12/2023,150,2.5,Problem Set 1/ STRUGGLE with World 1-1/Start Lecture2,,CS50,,unrelated full time job
+12,8/14/2023,100,1.7,Lecture 2/Notes/Compiling/Floats/Int/Arrays,,CS50,2,unrelated full time job
+13,8/15/2023,80,1.3,Lecture 2/ Notes/arrays/storage/Comand Line Inputs,,CS50,2,unrelated full time job
+14,8/16/2023,115,1.9,Lab 2,,CS50,2,unrelated full time job
+15,8/17/2023,90,1.5,Extra Video/ Section 2/trying to open files…/exercise section2,,CS50,2,unrelated full time job
+16,8/18/2023,90,1.5,Exercises in section 2/ Coding/ Just got into mini videos,,CS50,2,unrelated full time job
+17,8/19/2023,70,1.2,Just the function video and practices in section 2,,CS50,2,unrelated full time job
+18,8/21/2023,80,1.3,Lots of Section 2 videos; Happy to finish variable practice/ videos,,CS50,,unrelated full time job
+19,8/22/2023,100,1.7,Work on recording/Problem Set 2 Week 2,,CS50,,unrelated full time job
+20,8/24/2023,85,1.4,videostuff.LONG struggle on cipher problem set,,CS50,,unrelated full time job
+21,8/25/2023,125,2.1,LONG struggle on cipher problem set,,CS50,,unrelated full time job
+22,8/26/2023,140,2.3,SOLVE SUBSTITUTION!/Questions on P.S./Start Lect. 3,,CS50,,unrelated full time job
+23,8/28/2023,85,1.4,Lecture 3 Video,,CS50,3,unrelated full time job
+24,8/29/2023,130,2.2,Lecture 3 Video rewatch/ RECURRSION/Bonus videos,,CS50,3,unrelated full time job
+25,8/30/2023,45,0.8,Lecture 3 Extra video/Program Collatz :),,CS50,3,unrelated full time job
+26,8/31/2023,100,1.7,Tweak Collatz; Killed it on lab 3,,CS50,3,unrelated full time job
+27,9/1/2023,60,1,Study Tideman problem,,CS50,3,unrelated full time job
+28,9/2/2023,90,1.5,Tideman Start!,,CS50,3,unrelated full time job
+29,9/4/2023,150,2.5,Tideman Struggle Bus,,CS50,4,unrelated full time job
+30,9/5/2023,100,1.7,Tideman solution/study/ notes,,CS50,4,unrelated full time job
+31,9/6/2023,45,0.8,Lecture 4 and Notes,,CS50,4,unrelated full time job
+32,9/7/2023,65,1.1,Lecture 4 and Notes,,CS50,4,unrelated full time job
+33,9/8/2023,25,0.4,Lecture 4 and Notes,,CS50,4,unrelated full time job
+34,9/9/2023,70,1.2,Lecture 4 and Section and Notes,,CS50,4,unrelated full time job
+35,9/11/2023,65,1.1,Section/practice/Notes,,CS50,5,unrelated full time job
+36,9/12/2023,85,1.4,Pointer videos/Supplement Videos,,CS50,5,unrelated full time job
+37,9/13/2023,85,1.4,More Pointer Study,,CS50,5,unrelated full time job
+38,9/14/2023,75,1.3,Finsihed Shorts/Notes/Starting lab,,CS50,5,unrelated full time job
+39,9/15/2023,90,1.5,Lab 2/Problem Set,,CS50,5,unrelated full time job
+40,9/16/2023,60,1,Problem Set - Sepia Filter,,CS50,5,unrelated full time job
+41,9/18/2023,110,1.8,Struggle with Filters/Watch problem solving videos,,CS50,6,unrelated full time job
+42,9/19/2023,30,0.5,sick day - tried a little more with filters,,CS50,6,unrelated full time job
+43,9/20/2023,30,0.5,sick day - finish filter/ documentation of recover,,CS50,6,unrelated full time job
+44,9/21/2023,90,1.5,sick day - more recover struggle,,CS50,6,unrelated full time job
+45,9/22/2023,75,1.3,Start Lecture 5,,CS50,6,unrelated full time job
+46,9/23/2023,55,0.9,Lecture 5/Notes,,CS50,6,unrelated full time job
+47,9/25/2023,75,1.3,Lecture 5/Section Video,,CS50,7,unrelated full time job
+48,9/26/2023,60,1,Section/Shorts,,CS50,7,unrelated full time job
+49,9/27/2023,70,1.2,Shorts,,CS50,7,unrelated full time job
+50,9/28/2023,80,1.3,Shorts/Lab 5,,CS50,7,unrelated full time job
+51,9/29/2023,105,1.8,Lab 5 Finish/Problem Set,,CS50,7,unrelated full time job
+52,9/30/2023,85,1.4,Problem set Speller,,CS50,7,unrelated full time job
+53,10/2/2023,120,2,Quick finish 5/ Start Lect 6 Python/Notes,,CS50,8,unrelated full time job
+54,10/3/2023,110,1.8,Lect 6 Py/Notes/Small searches,,CS50,8,unrelated full time job
+55,10/4/2023,135,2.3,Section/Short - Python/Notes,,CS50,8,unrelated full time job
+56,10/5/2023,145,2.4,Completed Short/Mario/Working on Cash,,CS50,8,unrelated full time job
+57,10/6/2023,155,2.6,Finish Problem Sets!,,CS50,8,unrelated full time job
+58,10/7/2023,145,2.4,Lecture 7/ Section,,CS50,8,unrelated full time job
+59,10/9/2023,60,1,Finish Section,,CS50,9,unrelated full time job
+60,10/10/2023,120,2,Finish Short/Finish Lab/Start Movies,,CS50,9,unrelated full time job
+61,10/11/2023,130,2.2,Through working on FiftyVille,,CS50,9,unrelated full time job
+62,10/12/2023,85,1.4,15 min in finished SQL; Week 8 Lecture HTTP,,CS50,9,unrelated full time job
+63,10/13/2023,60,1,60/At Apartment/More Lecture,,CS50,9,unrelated full time job
+64,10/14/2023,135,2.3,Lecture and Entered Short,,CS50,9,unrelated full time job
+65,10/16/2023,115,1.9,Shorts,,CS50,10,unrelated full time job
+66,10/17/2023,80,1.3,Shorts,,CS50,10,unrelated full time job
+67,10/18/2023,135,2.3,Finished Shorts/Finsiehd Trivia,,CS50,10,unrelated full time job
+68,10/19/2023,90,1.5,60 min week 8; 30 min flask lecture,,CS50,10,unrelated full time job
+69,10/20/2023,100,1.7,Flask Lecture,,CS50,10,unrelated full time job
+70,10/21/2023,85,1.4,Finish Lecture/Start Section,,CS50,10,unrelated full time job
+71,10/23/2023,30,0.5,Tired - More Section,,CS50,11,unrelated full time job
+72,10/24/2023,140,2.3,70 min earlymorn; 70 finishing/Nope CsFinance,,CS50,11,unrelated full time job
+73,10/25/2023,100,1.7,HTML and CSS independent practice,,CS50,11,unrelated full time job
+74,10/26/2023,20,0.3,HTML and CSS independent practice,,CS50,11,unrelated full time job
+75,10/27/2023,120,2,20 HTML + Week 10 Lecture Emoji,,CS50,11,unrelated full time job
+76,10/28/2023,160,2.7,Finish Lecture Emoji; Seminars/Related videos,,CS50,11,unrelated full time job
+77,10/30/2023,110,1.8,Seminars; Python Exercises,,CS50,12,unrelated full time job
+78,10/31/2023,120,2,Python Lessons on Youtube/Exercies,,CS50,12,unrelated full time job
+79,11/1/2023,70,1.2,Python lessons on Youtube ,,CS50,12,unrelated full time job
+80,11/2/2023,70,1.2,Python lessons on Youtube ,,CS50,12,unrelated full time job
+81,11/3/2023,100,1.7,Python lessons on Youtube ,,CS50,12,unrelated full time job
+82,11/4/2023,230,3.8,Python lessons on Youtube,,CS50,12,unrelated full time job
+83,11/6/2023,100,1.7,Python lessons on Youtube,,CS50,13,unrelated full time job
+84,11/7/2023,125,2.1,Python projects and games,,CS50,13,unrelated full time job
+85,11/8/2023,80,1.3,Finish Hangman; Now To Do list Python,,CS50,13,unrelated full time job
+86,11/9/2023,60,1,To do list/Python/Flask,,CS50,13,unrelated full time job
+87,11/10/2023,60,1,following a habit tracking python,,CS50,13,unrelated full time job
+88,11/11/2023,185,3.1,Intro/Part 1 ,,PY Dev/RealPY,13,unrelated full time job
+89,11/13/2023,100,1.7,10 morning; Git/Assignments,,PY Dev/RealPY,14,unrelated full time job
+90,11/14/2023,110,1.8,15 morning/exercise/math,,PY Dev/RealPY,14,unrelated full time job
+91,11/15/2023,100,1.7,15 morning/strings/stringquiz,,PY Dev/RealPY,14,unrelated full time job
+92,11/16/2023,135,2.3,20 morning/function video and practice,,PY Dev/RealPY,14,unrelated full time job
+93,11/17/2023,130,2.2,25 morning/data types/lists/methods,,PY Dev/RealPY,14,unrelated full time job
+94,11/18/2023,30,0.5,short data video and notes,,PY Dev/RealPY,14,unrelated full time job
+95,11/20/2023,95,1.6,dictionaries/list/quizes,,PY Dev/RealPY,15,unrelated full time job
+96,11/21/2023,120,2,35 morning/hashtables/quiz/exercises,,PY Dev/RealPY,15,unrelated full time job
+97,11/22/2023,130,2.2,40 morn/loops/practice,,PY Dev/RealPY,15,unrelated full time job
+98,11/23/2023,75,1.3,17 early/Loops/Practice/Libraries,,PY Dev/RealPY,15,unrelated full time job
+99,11/24/2023,35,0.6,Libraries/Assignment 7,,PY Dev/RealPY,15,unrelated full time job
+100,11/25/2023,45,0.8,late travel/Assignment 7,,PY Dev/RealPY,15,unrelated full time job
+101,11/26/2023,45,0.8,Intro to Real Python,,PY Dev/RealPY,15,unrelated full time job
+102,11/27/2023,90,1.5,15 morning .RP/Assignment7/Quiz Game Start,,PY Dev/RealPY,16,unrelated full time job
+103,11/28/2023,270,4.5,142 morning/Reading/LogNotes/Anki/Quiz Code,,PY Dev/RealPY,16,unrelated full time job
+104,11/29/2023,170,2.8,48/Formatting tables/Finish Quiz/Debug,,PY Dev/RealPY,16,unrelated full time job
+105,11/30/2023,245,4.1,100/Real Python/Quiz/Lots of debugging…,,PY Dev/RealPY,16,unrelated full time job
+106,12/1/2023,170,2.8,127 pre minutes/Lots of Real Py/Coding exercises,,PY Dev/RealPY,16,unrelated full time job
+107,12/2/2023,235,3.9,Real Python/ Password Project,,PY Dev/RealPY,16,unrelated full time job
+108,12/4/2023,220,3.7,Py for beginners/Py Quizes Exercieses/Password Program,,PY Dev/RealPY,17,unrelated full time job
+109,12/5/2023,260,4.3,130/Finish Password/1st Leet code/Read,,PY Dev/RealPY,17,unrelated full time job
+110,12/6/2023,280,4.7,Real Python/ Algorithms/ LeetCode,,PY Dev/RealPY,17,unrelated full time job
+111,12/7/2023,290,4.8,Solved 1st LeetCode/Notes/Leetcode,,PY Dev/RealPY,17,unrelated full time job
+112,12/8/2023,235,3.9,Mostly working on Leetcode/RomNum to Int,,PY Dev/RealPY,17,unrelated full time job
+113,12/9/2023,215,3.6,Leetcode… Leetcode… Leetcode…,,PY Dev/RealPY,17,unrelated full time job
+114,12/11/2023,225,3.8,Finish LeetCode problems/Begin Organize Project,,PY Dev/RealPY,18,unrelated full time job
+115,12/12/2023,245,4.1,Real Python Anki/ Work on File Organizer,,PY Dev/RealPY,18,unrelated full time job
+116,12/13/2023,180,3,Anki/Work on Organizer/BOOL video and Anki cards,,PY Dev/RealPY,18,unrelated full time job
+117,12/14/2023,185,3.1,Anki Cards/BoolVideo/More anki Cards/ No Organizer today,,PY Dev/RealPY,18,unrelated full time job
+118,12/15/2023,140,2.3,Anki Cards and Youtube Py Videos,,PY Dev/RealPY,18,unrelated full time job
+119,12/16/2023,230,3.8,Anki Cards/Videos/Finish Organization project,,PY Dev/RealPY,18,unrelated full time job
+120,12/18/2023,415,6.9,SPRINGBOARD/Anki/HTML,,PY Dev/RealPY,19,unrelated full time job
+121,12/19/2023,300,5,Anki Cards/ Lots of HTML/CSS,,PY Dev/RealPY,19,unrelated full time job
+122,12/20/2023,350,5.8,Anki Cards/ HTML/ CSS exercises….,,PY Dev/RealPY,19,unrelated full time job
+123,12/21/2023,365,6.1,Anki Cards/JAVASCRIPT START/Research portfolio website,,PY Dev/RealPY,19,unrelated full time job
+124,12/22/2023,394,6.6,AnkiCards/JAVASC/Start Portfolio website/Cry,,PY Dev/RealPY,19,unrelated full time job
+125,12/23/2023,295,4.9,JavaScript/HTML/CSS Website Build/API,,PY Dev/RealPY,19,unrelated full time job
+126,12/25/2023,315,5.25,Study HTML/Anki Cards/Videos/Onboarding/CV Exercise ,865,SpringBoard,20,unrelated full time job
+127,12/26/2023,435,7.25,CV Exercises/HTML Tables/CSS Unit,885,SpringBoard,20,unrelated full time job
+128,12/27/2023,325,5.42,CSS unit/CV work/Coach call,951,SpringBoard,20,unrelated full time job
+129,12/28/2023,370,6.17,Mostly Done with CSS/Struggle buss on CV forms,960,SpringBoard,20,unrelated full time job
+130,12/29/2023,320,5.33,finish CSS and CV/Start Javascript/,978,SpringBoard,20,unrelated full time job
+131,12/30/2023,275,4.58,Lots of JavaScript Fundamentals/Some exercises submitted,1028,SpringBoard,20,unrelated full time job
+132,12/31/2023,48,0.8,FUN - Anki and Codewars,1028,SpringBoard,20,unrelated full time job
+133,1/1/2024,395,6.58,Anki Cards/JavaScript/Exercises/Lots of Loop learning,1087,SpringBoard,21,unrelated full time job
+134,1/2/2024,270,4.5,Anki Cards/JavaScript/function day/,1105,SpringBoard,21,unrelated full time job
+135,1/3/2024,265,4.42,AnkiCards during day/Javascriptexercises/BigCypherProject,1120,SpringBoard,21,unrelated full time job
+136,1/4/2024,310,5.17,AnkiCards/Studyed Python Book in day/ Struggle Bus Cypher project,1146,SpringBoard,21,unrelated full time job
+137,1/5/2024,275,4.58,Anki Cars/Study Python Book in Day/COMPLETED CYPHER,1191,SpringBoard,21,unrelated full time job
+138,1/6/2024,265,4.42,Anki/Didn't study as much as wanted/Functions/SetTimeout,1235,SpringBoard,21,unrelated full time job
+139,1/7/2024,30,0.5,Anki Cards Only,1235,SpringBoard,21,unrelated full time job
+140,1/8/2024,282,4.7,Anki Cards/DOM and Javascript,1278,SpringBoard,22,unrelated full time job
+141,1/9/2024,270,4.5,Anki Cards/MoreDom/Adding stuff/Transitions/selfexercises,1344,SpringBoard,22,unrelated full time job
+142,1/10/2024,270,4.5,Anki/Javascript/DOM,1374,SpringBoard,22,unrelated full time job
+143,1/11/2024,270,4.5,Anki/Data/Javascript/LocalStorage,1427,SpringBoard,22,unrelated full time job
+144,1/12/2024,300,5,Anki/DOM/Making ToDoList/Playing/Expeimenting/,1439,SpringBoard,22,unrelated full time job
+145,1/13/2024,410,6.83,Meeting with Mentor/Start Memory Game/StruggleBuss/cry,1440,SpringBoard,22,unrelated full time job
+146,1/14/2024,40,0.67,Anki Cards/Code Game,1440,SpringBoard,22,unrelated full time job
+147,1/15/2024,360,6,Working on Meme Generator. Struggle Bus/Slowly improving!,1452,SpringBoard,23,unrelated full time job
+148,1/16/2024,360,6,Anki - writing answers/Meme Generator/,1491,SpringBoard,23,unrelated full time job
+149,1/17/2024,290,4.83,Start Git,1569,SpringBoard,23,unrelated full time job
+150,1/18/2024,270,4.5,Git/Github/Accidently DELETE projects…. Cry… Try to Revert. Nope :(,1602,SpringBoard,23,unrelated full time job
+151,1/19/2024,270,4.5,Learn git/github more,1630,SpringBoard,23,unrelated full time job
+152,1/20/2024,345,5.75,Jasmine Testing… Really bad and overwhelming,1670,SpringBoard,23,unrelated full time job
+153,1/21/2024,30,0.5,Anki,1670,SpringBoard,23,unrelated full time job
+154,1/22/2024,325,5.42,Anki/SpringBoard/HighOrderArraymethods,1715,SpringBoard,24,unrelated full time job
+155,1/23/2024,240,4,High Order Array Methods/Reduce,1739,SpringBoard,24,unrelated full time job
+156,1/24/2024,180,3,Reduce/Job,1741,SpringBoard,24,unrelated full time job
+157,1/25/2024,280,4.67,ES2015/arrow functions/rest/spread,1822,SpringBoard,24,unrelated full time job
+158,1/26/2024,195,3.25,More Java Stuff/ Objects/ Kind of boring/ Give me Python…,1844,SpringBoard,24,unrelated full time job
+159,1/27/2024,205,3.42,Call with Mentor/ES/Shorthand exercises,1860,SpringBoard,24,unrelated full time job
+160,1/28/2024,32,0.53,Anki,1860,SpringBoard,24,unrelated full time job
+161,1/29/2024,270,4.5,More ES2015/ Maps/ Sets/ start the fruit search project,1919,SpringBoard,25,unrelated full time job
+162,1/30/2024,270,4.5,anki/ python tricks/ fruit search project,1933,SpringBoard,25,unrelated full time job
+163,1/31/2024,180,3,anki/ python tricks/ fruit search project,1945,SpringBoard,25,unrelated full time job
+164,2/1/2024,272,4.53,anki/ python tricks/ finish fruit search/ Youtube Job status for coders,1974,SpringBoard,25,unrelated full time job
+165,2/2/2024,292,4.87,Anki/ python tricks/ class exercise/ research job market,2029,SpringBoard,25,unrelated full time job
+166,2/3/2024,245,4.08,Anki/ Springboard - Javascript/ bind/ search for books,2048,SpringBoard,25,unrelated full time job
+167,2/4/2024,20,0.33,Anki,2048,SpringBoard,25,unrelated full time job
+168,2/5/2024,210,3.5,Anki/ Springboard/ Lookup Study.com/WGU/ Finish JS project/,2055,SpringBoard,26,unrelated full time job
+169,2/6/2024,240,4,Anki/ jQuery/ WGU/ Job Search stuff/ Neatcode/Primeguy,2093,SpringBoard,26,unrelated full time job
+170,2/7/2024,216,3.6,Anki/ jQuery/ Exercises - Movie App,2100,SpringBoard,26,unrelated full time job
+171,2/8/2024,276,4.6,Anki/ Tailwind/ Set up Tailwind/ Cry/,2106,SpringBoard,26,unrelated full time job
+172,2/9/2024,216,3.6,anki/Tailwind setup!,2112,SpringBoard,26,unrelated full time job
+173,2/10/2024,188,3.13,Anki/ How the Web Works,2132,SpringBoard,26,unrelated full time job
+174,2/11/2024,15,0.25,Anki,2140,SpringBoard,26,unrelated full time job
+175,2/12/2024,270,4.5,Anki/ HTTP/ Requests/ API,2179,SpringBoard,27,unrelated full time job
+176,2/13/2024,245,4.08,Anki/ API/ Requests/ Boring…./ Py Uplift,2199,SpringBoard,27,unrelated full time job
+177,2/14/2024,197,3.28,Requests… Boring…. Look at inspiration for portfolio WebSites,2204,SpringBoard,27,unrelated full time job
+178,2/15/2024,227,3.78,Anki/ Requests/ project/ introduction to BigO/,2222,SpringBoard,27,unrelated full time job
+179,2/16/2024,205,3.42,Anki/ Finish Big O/ HackerNews Copy… Cry,2257,SpringBoard,27,unrelated full time job
+180,2/17/2024,258,4.3,Anki/ Hacker News… Cry/ WGU/ cry… but less,2259,SpringBoard,27,unrelated full time job
+181,2/18/2024,20,0.33,Anki,2259,SpringBoard,27,unrelated full time job
+182,2/19/2024,212,3.53,HackerNews clone…cry,2261,SpringBoard,28,unrelated full time job
+183,2/20/2024,212,3.53,Anki/ Little of Py/ HackerNews clone FINISH,2281,SpringBoard,28,unrelated full time job
+184,2/21/2024,212,3.53,PY! :),2328,SpringBoard,28,unrelated full time job
+185,2/22/2024,112,1.87,Anki Py; Weird Busy day :(,2344,SpringBoard,28,unrelated full time job
+186,2/23/2024,225,3.75,Anki/ Py/ CodeReview - EXCELLENT/ Refactor**500HOURS,2381,SpringBoard,28,unrelated full time job
+187,2/24/2024,268,4.47,Good Metnor meeting/ lots of Py Exercises/,2405,SpringBoard,28,unrelated full time job
+188,2/25/2024,20,0.33,Anki,2419,SpringBoard,28,unrelated full time job
+189,2/26/2024,290,4.83,Anki/ Lots of Py exercises/ Some Leetcode stuff,2440,SpringBoard,29,unrelated full time job
+190,2/27/2024,270,4.5,Anki/ Py Exercises/ WRITING my thinking down,2450,SpringBoard,29,unrelated full time job
+191,2/28/2024,246,4.1,Anki/ Pyththon/ Writing/ Finish Py Exercises,2472,SpringBoard,29,unrelated full time job
+192,2/29/2024,248,4.13,Anki/ Python/ Virtual Environments/ ,2529,SpringBoard,29,unrelated full time job
+193,3/1/2024,220,3.67,Anki/ Finish Py/ Start Jeapordy Project,2546,SpringBoard,29,unrelated full time job
+194,3/2/2024,208,3.47,Jeapordy Project **API DOWN** Flask,2564,SpringBoard,29,unrelated full time job
+195,3/3/2024,30,0.5,Anki,2564,SpringBoard,29,unrelated full time job
+196,3/4/2024,220,3.67,/ Back to Jeapordy API Replaced/Try and finish Jeapordy,2570,SpringBoard,30,unrelated full time job
+197,3/5/2024,253,4.22,Flask again/ Claude,2593,SpringBoard,30,unrelated full time job
+198,3/6/2024,270,4.5,Anki/ Flask/ Flask/ and Flask,2609,SpringBoard,30,unrelated full time job
+199,3/7/2024,260,4.33,Flask/ Jinja/ look at boot.dev,2621,SpringBoard,30,unrelated full time job
+200,3/8/2024,252,4.2,Flask/ Jinja/ Exercise/ and Play,2628,SpringBoard,30,unrelated full time job
+201,3/9/2024,240,4,Flask/ Mentor Call/ Check out tools,2648,SpringBoard,30,unrelated full time job
+202,3/10/2024,13,0.22,Anki Cards,2648,SpringBoard,30,unrelated full time job
+203,3/11/2024,255,4.25,Flask,2654,SpringBoard,31,unrelated full time job
+204,3/12/2024,248,4.13,Flask/ Cookies,2685,SpringBoard,31,unrelated full time job
+205,3/13/2024,264,4.4,Flask/Cookies/ Session,2736,SpringBoard,31,unrelated full time job
+206,3/14/2024,310,5.17,Flask/ Testing -Unit and Integration,2798,SpringBoard,31,unrelated full time job
+207,3/15/2024,256,4.27,Flask/ testing/ boggle project,2822,SpringBoard,31,unrelated full time job
+208,3/16/2024,292,4.87,Future Planning/ Divide and Conquer/ JS problems,2839,SpringBoard,31,unrelated full time job
+209,3/17/2024,25,0.42,Little bit of Anki/ Fun videos,2839,SpringBoard,31,unrelated full time job
+210,3/18/2024,234,3.9,Forex Converter Assignment,2852,SpringBoard,32,unrelated full time job
+211,3/19/2024,241,4.02,LOTS of ANKI; NEET CODE SIGN UP!; Forex Converter Project,2859,SpringBoard,32,unrelated full time job
+212,3/20/2024,249,4.15,Forex Debugging,2871,SpringBoard,32,unrelated full time job
+213,3/21/2024,255,4.25,POSGRESQL/Slack community/SetupInstall**600 HOURS,2892,SpringBoard,32,unrelated full time job
+214,3/22/2024,162,2.7,PosgreSQL/Bugs with Forex,2896,SpringBoard,32,unrelated full time job
+215,3/23/2024,119,1.98,PosgreSQL,2917,SpringBoard,32,unrelated full time job
+216,3/24/2024,5,0.08,Anki,2917,SpringBoard,,unrelated full time job
+217,3/25/2024,260,4.33,BREAK/ FUN/ ANKI,2928,SpringBoard,,unrelated full time job
+218,3/26/2024,77,1.28,BREAK/ FUN/ ANKI,2935,SpringBoard,,unrelated full time job
+219,3/27/2024,34,0.57,BREAK/ FUN/ ANKI,2955,SpringBoard,,unrelated full time job
+220,3/28/2024,103,1.72,BREAK/ FUN/ ANKI,2972,SpringBoard,,unrelated full time job
+221,3/29/2024,160,2.67,BREAK/ FUN/ ANKI,2980,SpringBoard,,unrelated full time job
+222,3/30/2024,182,3.03,BREAK/ FUN/ ANKI,2994,SpringBoard,,unrelated full time job
+223,3/31/2024,27,0.45,BREAK/ FUN/ ANKI,2994,SpringBoard,,unrelated full time job
+224,4/1/2024,278,4.63,Anki/ SQL/ Slack; 3_000 ANKI CARDS,3012,SpringBoard,33,unrelated full time job
+225,4/2/2024,245,4.08,Anki/ SQL Tables/ Keys/ Dropping Tables,3035,SpringBoard,33,unrelated full time job
+226,4/3/2024,272,4.53,Anki/ SQL Stuff,3060,SpringBoard,33,unrelated full time job
+227,4/4/2024,252,4.2,SQL Alchemy/ Cry/ ipython/ testing,3068,SpringBoard,33,unrelated full time job
+228,4/5/2024,246,4.1,SQL/ BUG/ Install WSL2/ Ubuntu,3076,SpringBoard,33,unrelated full time job
+229,4/6/2024,306,5.1,Mentor Talk/ UnbuntuExplore :) Struggle Bus;,3076,SpringBoard,33,unrelated full time job
+230,4/7/2024,23,0.38,Anki Cards,3080,SpringBoard,33,unrelated full time job
+231,4/8/2024,249,4.15,FIXED SQL ALCH! More Python/SQL,3088,SpringBoard,34,unrelated full time job
+232,4/9/2024,246,4.1,Anki/ Quitting SpringBoard; WGU and Study.com Research,3091,SpringBoard,34,unrelated full time job
+233,4/10/2024,272,4.53,APPLY FOR WGU!  Start Precalc on Khan Accademy,3098,Pre Masters,34,unrelated full time job
+234,4/11/2024,252,4.2,PreCalculus/Trig,3127,Pre Masters,34,unrelated full time job
+235,4/12/2024,366,6.1,Trig,3139,Pre Masters,34,unrelated full time job
+236,4/13/2024,378,6.3,Trig,3155,Pre Masters,34,unrelated full time job
+237,4/14/2024,43,0.72,Anki/Videos,3155,Pre Masters,34,unrelated full time job
+238,4/15/2024,260,4.33,Trig,3165,Pre Masters,35,unrelated full time job
+239,4/16/2024,258,4.3,WGU Call/Trig,3165,Pre Masters,35,unrelated full time job
+240,4/17/2024,276,4.6,Trig,3171,Pre Masters,35,unrelated full time job
+241,4/18/2024,346,5.77,WGU and Future Planning/ Trig,3175,Pre Masters,35,unrelated full time job
+242,4/19/2024,301,5.02,WGU Trig,3187,Pre Masters,35,unrelated full time job
+243,4/20/2024,406,6.77,Mentor call/Writing/PreCalculus/Trig/Research Certs**700HOURS,3187,Pre Masters,35,unrelated full time job
+244,4/22/2024,182,3.03,Anki Catchup/Trig Confusing/Precalc,3187,Pre Masters,36,unrelated full time job
+245,4/23/2024,255,4.25,Anki/ Trig Finish!/PreCalc,3207,Pre Masters,36,unrelated full time job
+246,4/24/2024,314,5.23,PreCalc/Imaginary Numbers/Complex,3216,Pre Masters,36,unrelated full time job
+247,4/25/2024,290,4.83,PreCalc/Factoring Stuff,3232,Pre Masters,36,unrelated full time job
+248,4/26/2024,305,5.08,FINISH ALL UNIT 1 PreCalc,3245,Pre Masters,36,unrelated full time job
+249,4/27/2024,405,6.75,Stuff I don't remember/Probably PreCalc And python,3249,Pre Masters,36,unrelated full time job
+250,4/28/2024,20,0.33,,3251,Pre Masters,36,unrelated full time job
+251,4/29/2024,305,5.08,FINISH EASTERN UNIVERSITY APPLICATION/PreCalc,3251,Pre Masters,37,unrelated full time job
+252,4/30/2024,300,5,PreCalc/Python Data Science,3263,Pre Masters,37,unrelated full time job
+253,5/1/2024,302,5.03,Jupyter/Refund Calculation/Data Science,3292,Pre Masters,37,unrelated full time job
+254,5/2/2024,306,5.1,Learning Jupyter Notebook/Anaconda,3267,Pre Masters,37,unrelated full time job
+255,5/3/2024,310,5.17,Lots of Reaserch on Data Engineering/Data Science/Programs/Math,3260,Pre Masters,37,unrelated full time job
+256,5/4/2024,366,6.1,Call with Mentor/Python Study/PreCal/Calculus,3257,Pre Masters,37,unrelated full time job
+257,5/6/2024,255,4.25,iPython/Jupyter/Start BOOK,3283,Pre Masters,38,unrelated full time job
+258,5/7/2024,255,4.25,Lost of PreCalc/Some Calc,3294,Pre Masters,38,unrelated full time job
+259,5/8/2024,186,3.1,PreCalc/Cal Struggle Bus (Tired.Busy.Sick),3302,Pre Masters,38,unrelated full time job
+260,5/9/2024,260,4.33,"FINISHED ""GET READY FOR PRE CALC!!!"" :)",3300,Pre Masters,38,unrelated full time job
+261,5/10/2024,11,0.18,EASTERN UNI MS. DS. ACCEPTED! - Fun Day,3295,Pre Masters,38,unrelated full time job
+262,5/11/2024,268,4.47,Eastern UNI Sign up/Start Statistics on Khan Academy,3296,Pre Masters,38,unrelated full time job
+263,5/13/2024,260,4.33,Statistics,3295,Pre Masters,39,unrelated full time job
+264,5/14/2024,256,4.27,Statistics,3295,Pre Masters,39,unrelated full time job
+265,5/15/2024,260,4.33,Statistics/**800 HOURS,3208,Pre Masters,39,unrelated full time job
+266,5/16/2024,260,4.33,Statistics,3324,Pre Masters,39,unrelated full time job
+267,5/17/2024,256,4.27,Statistics,3379,Pre Masters,39,unrelated full time job
+268,5/18/2024,225,3.75,Mentor Call/Stats/Trading/Exploratory/FASA,3392,Pre Masters,39,unrelated full time job
+269,5/20/2024,274,4.57,Statistics/Quant Curious,3400,Pre Masters,40,unrelated full time job
+270,5/21/2024,275,4.58,Statistics/Learn a little R,3421,Pre Masters,40,unrelated full time job
+271,5/22/2024,252,4.2,Statistics/ R,3437,Pre Masters,40,unrelated full time job
+272,5/23/2024,262,4.37,Statistics/R,3453,Pre Masters,40,unrelated full time job
+273,5/24/2024,260,4.33,Statistics/R/Fun Easy Math/Gemetric Distributions,3458,Pre Masters,40,unrelated full time job
+274,5/25/2024,276,4.6,Statistics/Quant Research,3480,Pre Masters,40,unrelated full time job
+275,5/27/2024,240,4,Big Anki Day/R/EastUniversity,3507,Pre Masters,,unrelated full time job
+276,5/28/2024,267,4.45,R,3517,Pre Masters,,unrelated full time job
+277,5/29/2024,272,4.53,FINALL INSTALL R STDUIO ON WINDOWS! ,3566,Pre Masters,,unrelated full time job
+278,5/30/2024,262,4.37,R/Tests in R Studio/Redesign Excel,3572,Pre Masters,,unrelated full time job
+279,6/1/2024,288,4.8,Struggle with AnkiPro! It's uggly,3573,Pre Masters,,unrelated full time job
+280,6/3/2024,268,4.47,Copy over Cards/Anki/R/GOOD ANKI INSTALLED,3583,Pre Masters,41,unrelated full time job
+281,6/4/2024,252,4.2,Anki Study/How to do cards/R/Book,3600,Pre Masters,41,unrelated full time job
+282,6/5/2024,240,4,Anki/Statistics Book/R,3540,Pre Masters,41,unrelated full time job
+283,6/6/2024,260,4.33,Stats book/R/,3710,Pre Masters,41,unrelated full time job
+284,6/7/2024,282,4.7,Research Machine Learning/Study Exploring,3738,Pre Masters,41,unrelated full time job
+285,6/8/2024,242,4.03,R/Quant Explore/,3778,Pre Masters,41,unrelated full time job
+286,6/10/2024,240,4,R/Statistics,3866,Pre Masters,42,unrelated full time job
+287,6/11/2024,258,4.3,GOT CODECADEMY/R Projects,3890,Pre Masters,42,unrelated full time job
+288,6/12/2024,252,4.2,R on CodeCademy ** 900 Hours! :),3936,Pre Masters,42,unrelated full time job
+289,6/13/2024,260,4.33,R Projects on CodeCademy,3956,Pre Masters,42,unrelated full time job
+290,6/14/2024,240,4,Study on the go while Traveling!,3960,Pre Masters,42,unrelated full time job
+291,6/15/2024,246,4.1,Traveling/ Anki/ R on CodeCademy/Keyboard commands!,3975,Pre Masters,42,unrelated full time job
+292,6/17/2024,242,4.03,Traveling/Anki Catchup/ R on CodeCademy/Keyboard ShortCuts,3980,Pre Masters,43,unrelated full time job
+293,6/18/2024,260,4.33,R CodeCademy,4023,Pre Masters,43,unrelated full time job
+294,6/19/2024,254,4.23,R CodeCademy/Youtube Videos for ggplot,4079,Pre Masters,43,unrelated full time job
+295,6/20/2024,252,4.2,R codeCademy/Rstudio,4137,Pre Masters,43,unrelated full time job
+296,6/21/2024,252,4.2,R codeCademy/Lots of Bar Charts/So many,4162,Pre Masters,43,unrelated full time job
+297,6/22/2024,240,4,More R/Trying to work independently on Rstudio for CodeCademy proj,4182,Pre Masters,43,unrelated full time job
+298,6/24/2024,240,4,Lost of Anki Catchup/R Museum Project,4185,Pre Masters,44,unrelated full time job
+299,6/25/2024,240,4,Fix my internet/R Museum Project,4197,Pre Masters,44,unrelated full time job
+300,6/26/2024,252,4.2,Finish Museum Project/Finish Citi Bike Project/Job Research,4209,Pre Masters,44,unrelated full time job
+301,6/27/2024,257,4.28,Studen Orientation for EU/Create study histogram,4242,Pre Masters,44,unrelated full time job
+302,6/28/2024,278,4.63,Looking at Linear Regression/Plotting,4330,Pre Masters,44,unrelated full time job
+303,6/29/2024,257,4.28,Linear Regression Article/Video,4374,Pre Masters,44,unrelated full time job
+304,7/1/2024,330,5.5,First day of data science program/Zoom/520 Module 0,4396,Masters Program,45,student
+305,7/2/2024,350,5.83,520 Module 1,4412,Masters Program,45,student
+306,7/3/2024,457,7.62,Model 1 finish and Exam/520 Module 2,4419,Masters Program,45,student
+307,7/4/2024,308,5.13,/slice/array/ indexing,4492,Masters Program,45,student
+308,7/5/2024,382,6.37,520 Module 2/assignments,4536,Masters Program,45,student
+309,7/6/2024,392,6.53,520 Module 2 All Numpy assignments done/Numpy exam = 100%,4553,Masters Program,45,student
+310,7/8/2024,380,6.33,520 Module 2 ***1000 HOURS!,4546,Masters Program,,student
+311,7/10/2024,305,5.08,Pandas Assignments,4569,Masters Program,,student
+312,7/11/2024,340,5.67,Pandas Assingments/MultiIndex/Cry,4676,Masters Program,,student
+313,7/12/2024,304,5.07,Finish Module 3/exam100%,4696,Masters Program,,student
+314,7/13/2024,318,5.3,Finish Matplotlib/Work on polishing assignments/Take exam,4751,Masters Program,,student
+315,7/15/2024,315,5.25,Last Exam for Github 100%,4793,Masters Program,46,student
+316,7/16/2024,385,6.42,Presentation on Negotiation/Finish Git Module/DONE WITH 520,4819,Masters Program,46,student
+317,7/17/2024,308,5.13,550 Stats/Lots of R/ Some Assignment,4850,Masters Program,46,student
+318,7/18/2024,302,5.03,"550, R assignments",4858,Masters Program,46,student
+319,7/19/2024,396,6.6,100 on Module 1 Exam/Module 2,4960,Masters Program,46,student
+320,7/20/2024,304,5.07,Lots of Module 2/Ploting/Descriptive Stats Basics/Lab4 completed,4944,Masters Program,46,student
+321,7/22/2024,322,5.37,Long time to finish Anki/ 100 on Stats test,4956,Masters Program,47,student
+322,7/23/2024,300,5,Distributions…. Many Distributions,5083,Masters Program,47,student
+323,7/24/2024,314,5.23,Distributions/Test,4855,Masters Program,47,student
+324,7/25/2024,240,4,100 Module 3 test,4898,Masters Program,47,student
+325,7/26/2024,252,4.2,Model 4 Test/100/Entering model 5,4952,Masters Program,47,student
+326,7/27/2024,192,3.2,Bad PACKING day for moveT tests lots of videos/ degrees of freedom,4960,Masters Program,47,student
+327,7/29/2024,240,4,Listening to Lecture on Road/Big Anki Catch up day,4978,Masters Program,48,student
+328,7/30/2024,250,4.17,Lots of videos on Distributions/Take test Mod 5/Retakes/Pass!,5015,Masters Program,48,student
+329,7/31/2024,244,4.07,Anki Cards/Linear Regression Basics ***1100 HOURS!,5058,Masters Program,48,student
+330,8/1/2024,262,4.37,Correlation and Regression Exam 100/Computer lab5,5083,Masters Program,48,student
+331,8/2/2024,305,5.08,Working More on LAB for 550/ Study Class/study Stats,5094,Masters Program,48,student
+332,8/3/2024,245,4.08,Lots of Module 5/ANOVA/P-values,5114,Masters Program,48,student
+333,8/5/2024,265,4.42,ANOVA/ChiSquare tests/R,5174,Masters Program,49,student
+334,8/6/2024,248,4.13,FinishChi-Square tests/Extra learning for linear regression/SQL,5202,Masters Program,49,student
