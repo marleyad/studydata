@@ -1,0 +1,161 @@
+---
+title: "Study Data - Adam Marley"
+output: html_notebook
+---
+
+Importing Data I loaded study data from a modified Microsoft Excel Sheet. I saved a new CSV file named 'studydata_aug.csv'. This file covers all the minutes that I studied from 7/30/2023 to 8/6/2024.
+
+```{r}
+# Load and Inspect Data:
+studydata <- read.csv('studydata_aug.csv')
+head(studydata)
+```
+
+I want to know the total minutes studied for the entire study sheet.
+
+```{r}
+# Calculate Total Minutes
+total_minutes <- sum(studydata$minutes)
+total_minutes
+```
+
+Next, I want to calculate how many hours I studied. I am purposely not using the 'hours' column because it is rounded. The most accurate result will be using total_minutes for the calculation. After I will look at the summary of the hours for each day
+
+```{r}
+library(ggplot2)
+
+# Calculate Total Hours
+total_hours <- total_minutes/60
+total_hours
+
+# Look at the summary of hours per day
+round(summary(studydata$minutes/60),2)
+
+
+# Create a Boxplot to visualize data
+boxplot <- boxplot(studydata$minutes/60, horizontal = T, main = 'Distribution of Hours studied each Day', xlab = 'Hours per day')
+
+# Looking at the results:
+# The least I studied in a day was less than 1/10th of an hour. The max value was over 7.5 hours of study in one day. The median was 4 Hours studied per day.  Overall, I am happy that even having an unrelated full-time job I have been able to study roughly 3 to 4 hours each study day.
+```
+
+I want to evaluate how much time I spent on each program I was in. The total programs are CS50, Py Dev/RealPy, SpringBoard, Pre Masters, and Masters Program.
+
+```{r}
+# Make a table
+study_table <- aggregate(studydata$minutes ~ studydata$program, FUN =  sum)
+
+# Assign descriptive column names
+names(study_table) <- c('Program', 'Total Minutes')
+
+# Create an hours column
+study_table$Hours <- round(study_table$`Total Minutes`/60, 1)
+
+study_table
+```
+
+Next, I will visualize the data that I calculated
+
+```{r}
+library(ggplot2)
+
+bar_programs <- 
+  ggplot(study_table, aes(Program, `Total Minutes`)) + 
+  geom_bar(stat = 'identity', fill = 'purple') +
+  labs(
+    title = 'Total Minutes Studied for each Program',
+    x = 'Study Program',
+    y = 'Minutes',
+  )
+
+# Visualize
+bar_programs
+```
+
+
+Timeline of how my minutes per day evolved over time
+```{r}
+
+timeline <- ggplot(studydata, aes(x = seq(minutes), y = minutes)) +
+  geom_point() +
+  geom_line() +
+  labs(title = 'Studied Minutes over Time',
+       x = 'Study Days since July 30th',
+       y = 'Minutes studied per day')
+
+# Visualize timeline
+timeline
+
+```
+
+
+
+One Dilemma is that there are a lot of low values that are scattered across ~ 130 days to 260 days. They don't seem to fit the pattern. That is because on 'off' days, I would still record the minutes to review my Anki Flash Cards. I don't think this fits into the data very well. Eventually, I stopped studying altogether on Sundays. To plot the data without these low points I will need to clean the data to NOT include times on Sundays. 
+```{r}
+# Simplify data to just 2 columns for the first step
+studytwocolumns <- studydata[,c("date","minutes")]
+
+# Check how many rows there are - 334
+nrow(studytwocolumns)
+
+# Currently, the date column is not in date format. I need to convert it to date format with asDate()
+studytwocolumns$date <- as.Date(studytwocolumns$date, format = "%m/%d/%Y")
+
+# Create a new column to show the day of the week based on the date
+studytwocolumns$day_of_week <- weekdays(studytwocolumns$date)
+
+# Check how many Sundays are in my data - 19
+total_sundays <- sum(studytwocolumns$day_of_week == 'Sunday')
+total_sundays
+
+# Make a new data frame with no 'Sunday Values'
+no_sunday_data <- studytwocolumns[studytwocolumns$day_of_week != 'Sunday',]
+
+# Check the number of rows for no_sunday_data. 315. That makes sense: 334 - 19 = 315
+nrow(no_sunday_data)
+```
+
+Finally, I will plot the points again with the new data frame "no_sunday_data"
+```{r}
+timeline2 <- ggplot(no_sunday_data, aes(x = seq(minutes), y = minutes)) +
+  geom_point() +
+  geom_line() +
+  labs(title = 'Studied Time each Day over Time Excluding Sundays',
+       x = 'Study Days since July 31st',
+       y = 'Minutes studied per day') +
+  geom_hline(yintercept = 240, col = 'red')
+timeline2
+```
+The Data has a better overall shape. This new plot has removed many of the low values. Removing the Sunday values did help see a better shape of the plot. I renamed the x-axis to reflect the change of removing the Sundays. July 30th was a Sunday so the data starts with July 31st.
+
+I added a horizontal line on the y-axis. The line is at 240 minutes which is roughly my latest goal of study each day. 
+
+
+Distribution of Data:
+Now I would want to see the distribution of the study minutes from the cleaned data set, no_sunday_data. I will use a ggplot histogram to look at the frequency and shape of the data.
+```{r}
+clean_hist <- ggplot(no_sunday_data, aes(minutes)) +
+  geom_histogram(binwidth = 15, fill = 'black', color = 'white') +
+  labs(title = 'Distribution of minutes studied per day (excluding Sundays)',
+       x = 'Minutes Per Day',
+       y = 'Frequency') +
+  geom_vline(xintercept = 240, col = 'red')
+
+# Visualize the data
+clean_hist
+```
+
+
+Explanation of the Data:
+The distribution of the cleaned data set has a bimodal distribution. I think the first peak of the data is from my early studying of CS50. The second larger peak is probably due to the study time after CS50. This plot seems accurate especially when compared to the line plot above.
+
+I added a vertical line at 240 Minutes to show my study goal and how it fits into the distribution.
+
+
+Tools and Resources:
+  All code is original and self-written
+  AI assistants (ChatGPT, Claude) consulted to learn about inputs, parameters, and error handling
+  AI was utilized for statement revision, but no original AI-generated content
+  Stack Overflow and GeeksforGeeks used for research and problem-solving
+  Grammarly was used for editing purposes
+  
