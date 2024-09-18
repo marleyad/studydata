@@ -62,8 +62,6 @@ The project is organized into the following sections:
 
 This project not only showcases my ability to analyze and visualize data using R but also demonstrates my commitment to consistent study habits over an extended period. The skills demonstrated in this project are directly applicable to data science roles that require data manipulation, analysis, and visualization. 
 
-Feel free to explore the code and visualizations provided in this repository to gain further insights into my study habits and the analytical techniques used.
-
 ## Acknowledgments
 
 - **AI Assistants (ChatGPT, Claude):** Consulted for learning about inputs, parameters, and error handling.
