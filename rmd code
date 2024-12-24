@@ -1,6 +1,6 @@
 ---
 title: "Study Data - Adam Marley" 
-output: html_notebook
+output: html_notebook 
 ---
  
 Importing Data I loaded study data from a modified Microsoft Excel Sheet. I saved a new CSV file named 'studydata_aug.csv'. This file covers all the minutes that I studied from 7/30/2023 to 8/6/2024.
