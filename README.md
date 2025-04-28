@@ -4,7 +4,7 @@
 
 This project analyzes my study data from July 30, 2023, to August 6, 2024. The analysis was performed using R within an R Notebook environment. The data was initially stored in a modified Microsoft Excel sheet and later saved as a CSV file named `studydata_aug.csv`. This project explores the total minutes and hours spent studying, evaluates time spent across different study programs, and visualizes the data to uncover trends and distributions over time. 
     
-## Project Structure 
+## Project Structure  
 
 The project is organized into the following sections:   
 
