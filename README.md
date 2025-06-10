@@ -8,7 +8,7 @@ This project analyzes my study data from July 30, 2023, to August 6, 2024. The a
 
 The project is organized into the following sections:   
 
-1. **Importing Data:** 
+1. **Importing Data:**   
    - The CSV file `studydata_aug.csv` is loaded, and the initial rows are inspected to understand the data structure.
     
 2. **Calculating Total Study Time:**
